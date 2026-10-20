@@ -1,0 +1,125 @@
+Data Quality Management
+Data quality is pivotal in machine learning, as inaccurate or irrelevant data can lead to poor results. It is essential to identify and eliminate non-contributing features to ensure a robust dataset, as their presence can negatively affect model performance. By recycling garbage data into meaningful information, data scientists can improve outcomes and support machine learning audits effectively.
+Machine Learning Audit
+Fitness discussions highlight the assumption that people from certain regions, like South India, are more fit than those from others, such as Noida, which may not be accurate. Additionally, the suggestion to prioritize relevant features in fitness evaluation emphasizes the importance of avoiding irrelevant factors, like location. It suggests that combining features can simplify the analysis process.
+Feature Engineering
+Feature engineering involves selecting and refining the right data columns for machine learning models, which can be a significant challenge due to the vast amounts of data available. A common issue arises when a model trained on past data fails to perform well with new data, as it lacks an understanding of the underlying story and relies solely on the previous dataset. Continuous learning and experience are crucial to mastering this aspect of data management.
+Data Overfitting
+The discussion emphasizes the challenge of overfitting in machine learning, likening it to making broad generalizations based on limited experiences or data. An example highlights how perceptions can be skewed by a single expensive movie ticket, leading to the mistaken belief that everything in a city is costly. This serves to illustrate how humans often internalize data in a way that may not accurately reflect the broader reality.
+Generalization Issues
+A machine learning model, while calculating functions, risks fitting too closely to the training data, which can hinder its ability to perform well on new data points. This overfitting becomes a significant issue, as the model becomes overly specialized and fails to generalize, ultimately affecting its performance in real-world applications. Understanding and addressing this problem is crucial for achieving better results in machine learning.
+Model Performance
+Fitting contrasts with overfitting in machine learning, where one must balance simplicity and complexity to achieve optimal model performance. A well-structured machine learning model can yield impressive results on new data if trained correctly, but it requires thoughtful consideration and not just reliance on initial successes. Continuous engagement with the process is crucial for long-term success in machine learning.
+Overfitting and Underfitting
+Integrating machine learning into software development involves addressing the user's needs, whether it's through comment systems or algorithms for tasks like loan default prediction. The primary challenge lies in seamlessly embedding machine learning solutions within existing software, as this process can become complex due to varying software issues. Thus, machine learning is not a standalone solution but rather a component that must be effectively integrated into the broader software architecture.
+Underfitting
+Integrating machine learning into software presents challenges, as the ultimate goal is to assist users, whether through comment systems or algorithms such as loan default prediction. The initial step involves developing machine learning models, but the second crucial task is their integration within existing software, which is not straightforward due to the complexities of the software itself.
+Software Integration
+The integration of software with machine learning is essential to enhance user assistance, whether through comment systems or algorithms for tasks like loan default updates. However, this process is challenging as it requires embedding machine learning models into existing software, which can be complicated due to varying software architectures. Ultimately, the success of machine learning applications depends on effective integration with user-oriented software systems.
+Software Integration Challenges
+The integration of machine learning across various platforms faces significant challenges due to differences in operating systems and the stability of programming languages. While Java remains popular, its support for machine learning is limited, creating difficulties in software integration. Additionally, updating models post-deployment is complex, necessitating offline re-training and re-upload, which complicates the maintenance and evolution of machine learning applications.
+Deployment Difficulties
+Deployment of machine learning models is a challenging task, particularly when scaling for larger audiences, as it involves complicated real-time monitoring and adjustments. Optimizing models for production reveals hidden costs and can lead to difficulties if not properly managed. Success in this field requires converting machine learning models into software products, deploying them effectively, and navigating the complexities involved.
+Future of Machine Learning Integration
+The discussion highlights the importance of understanding product management and the integration of machine learning operations, emphasizing that this field has significant growth potential. As the conversation wraps up, viewers are encouraged to focus on these aspects while also preparing for practical components of the course. The video invites viewers to subscribe and share the series with friends interested in learning machine learning.
+
+
+
+# Lectures sound:-
+Keep running audio that allows direct usage. And this is a significant change today in machine learning related to villages. I believe that in the next five to ten years, it will become a bit easier as libraries will become available for every platform, so people will feel more comfortable. That is also a significant problem.
+The issue is that those libraries aren't comfortable to work with together, so you have to do different work for everything, whether it's left or right, next tense of offline learning and deployment of learning. I told you earlier that in Delhi, they mean that once your model is trained on the server, it doesn’t get updated. If you need to update it,
+you have to bring it back down offline. No, my son, you do it again and then re-upload it on the server. This whole process poses many challenges. I did a last dance video about this because you want the model to be updated in real-time, which is called online learning. It's a bit difficult and I’ve seen that in technology and
+deployment, it seems really cool and is quite challenging as deployment in any case is very difficult work. Today, our leading provider is AWS, and they provide services where you can apply machine learning to deliver to your users.
+However, honestly, it’s still not as robust as software works well. There are still nation-states, and for four inches, you will go into production and monitor everything in real time, but it does need a bit of effort.
+Perhaps there is a need for a little improvement on the computer side, so it's likely that in five to ten years, agriculture will have a chance to improve. The last changes could constitute a significant barrier that I did not understand until my own models were deployed on plant tested. If you are doing things on a larger scale,
+I mean, if you are developing and deploying projects and products for a big company, and 10,000 to 100,000 users are using your software that runs your machine learning, you won't even realize where your 65 will come from. Okay, in this video's link,
+I will submit a link to a paper where someone has properly addressed it, and that paper is titled 'The Cost of Many.' When many people research machine learning, they get lost and happily create techniques to extract from the tricky side, but when they are brought up to the server,
+they have to eliminate so many hidden costs because your company will not allow many things for free. Today, in the context of machine learning servers, technology is new, so everything is not optimized, and managing as well can be a significant challenge. So after watching this entire video, one thing I will advise you is that whenever you learn and experiment,
+and after learning, take the next step, which is to convert machine learning models into a proper software product and deploy that product on the server for active users. So let's use it. Therefore, having experience in both running and developing a product is essential and this is the biggest challenge in machine learning today.
+Chicken Quick has also emerged as a very dedicated field. Now it is being called Email Off, a very famous freedom, which is gradually being established in machine learning. Page setup.
+It is like a box where you then place products on the server and handle all its costs and operations. I am saying that it takes one and a half times the development effort. Similarly, machine learning software poses similar challenges whether on software mountains or running it, so you feel like machine learning operations are very complex.
+If it's a greenfield, so I suggest that you should pay a little attention to all these things, okay? That discussion is finished, and we will discuss about 34 more points in the next two to three days, and then vibes will start the practical part of this course, so taxes.
+Set up for watching this series, please consider subscribing if possible. You can share with your friends who want to learn machine learning. Now we are going to the back side of the videos. Thanks for watching.
+
+
+
+
+
+
+
+
+
+
+
+short ans:-
+
+Here is an overview of the key challenges encountered in machine learning:
+
+Challenges in Machine Learning
+
+
+
+Data-Related Challenges
+Data Collection is a fundamental challenge in machine learning, as models learn from data, and readily available, clean data is often scarce outside of academic projects.  
+
+While methods like using APIs or web scraping exist, they also present difficulties in acquiring the right kind and amount of data.  
+
+Insufficient Data can severely impact model performance; even a less sophisticated algorithm with abundant data can outperform a superior algorithm with limited data.  
+
+This concept is known as the "unreasonable effectiveness of data," where having more data often matters more than the specific algorithm used, though most practitioners deal with medium-level data where algorithms still play a crucial role.  
+
+Unlabeled Data poses another significant hurdle, especially in tasks like image classification, where manual labeling of large datasets is a tedious and time-consuming process.  
+
+Non-Representative Data occurs when the collected data does not accurately reflect the real-world problem, leading to incorrect conclusions.  
+
+Sampling Noise happens when data is collected from only a limited source, failing to represent the entire population (e.g., surveying only one country for a global event).  
+
+Sampling Bias arises even when data is collected from various sources, but the sampling method is flawed, leading to an unrepresentative sample (e.g., surveying all countries but with a disproportionate number of people from one background).  
+
+Poor Quality Data is a major issue, encompassing missing values, outliers, and inconsistent data formats, which can render machine learning algorithms ineffective. 
+
+It is estimated that up to 60% of a machine learning project's time is spent on cleaning and preparing data, as the principle of "garbage in, garbage out" applies directly to ML models.  
+
+Irrelevant Features are columns in a dataset that do not contribute meaningfully to the prediction task, acting as "garbage" that can degrade model performance.  
+
+For example, a person's location is irrelevant for predicting marathon participation, as it doesn't indicate fitness levels.  
+
+Feature Engineering, which involves combining existing features to create more meaningful ones (e.g., calculating BMI from height and weight), is a common technique to address this. 
+
+Model-Related Challenges
+Overfitting occurs when a machine learning model learns the training data too well, essentially memorizing it rather than understanding the underlying patterns.  
+
+This leads to excellent performance on the training data but poor generalization and performance on new, unseen data.  
+
+Humans often exhibit similar behavior, overgeneralizing from limited experiences. 
+
+Underfitting is the opposite of overfitting, where a model is too simple and fails to capture the complexities of the training data. 
+
+An underfit model performs poorly on both training and new data because it hasn't learned enough from the available information.  
+
+Deployment & Operational Challenges
+Software Integration is a significant challenge because machine learning models are typically part of a larger software product designed to assist users.  
+
+Integrating ML models into diverse software platforms (Windows, Android, Linux, etc.) is complex due to varying operating systems and environments. 
+
+Many traditional programming languages and platforms still lack stable and mature support for machine learning integration, though this is gradually improving. 
+
+Offline Learning & Deployment refers to the process where a model is trained offline, deployed to a server, and then needs to be brought back offline, retrained with new data, and redeployed for updates. 
+
+This process is cumbersome, and continuous online learning (where the model updates in real-time on the server) is more complex to implement. 
+
+Even with leading cloud providers like AWS offering deployment services, the process is still in its nascent stages compared to traditional software deployment.  
+
+Here is a flowchart visualizing the offline learning and deployment process:
+
+Offline Learning & Deployment Process
+
+Cost of ML Models (both building and running) is a major, often underestimated, challenge, especially when deploying at scale for large user bases.  
+
+There are numerous hidden costs associated with running ML models on servers, which can significantly impact a company's budget.  
+
+The field of MLOps (Machine Learning Operations) has emerged to address these challenges, focusing on the deployment, monitoring, and cost management of machine learning models in production environments.  
+
+
+
+
